@@ -1,0 +1,14 @@
+TITRE DU PROJET : Projet AgriCollect_Application Agricole Python-Apprentissage.html
+UE : INF232 (Programmation Python)
+INSTITUTION : Support de Travaux Pratiques
+
+AUTEUR : 
+Nom : AKONO OPONO CLARA IMELDA
+Matricule : 24H2162
+Année : 2025-2026
+
+DESCRIPTION :
+Cette application est un outil d'apprentissage pour la collecte et 
+l'analyse de données agricoles au Cameroun. Elle a été développée 
+dans le cadre de l'UE INF232 pour démontrer les capacités de robustesse 
+et d'efficacité du langage Python.
